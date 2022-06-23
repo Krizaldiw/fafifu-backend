@@ -106,3 +106,5 @@ dist
 src/public/images/avatar/
 
 src/public/videos/
+
+package-lock.json
